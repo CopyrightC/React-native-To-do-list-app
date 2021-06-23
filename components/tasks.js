@@ -10,7 +10,7 @@ export default function Tasks (props) {
                 <TouchableOpacity style = {styles.square}>
 
                 </TouchableOpacity>
-                <Text>{props.text}</Text>
+                <Text style = {styles.txt}>{props.text}</Text>
             </View>
             <View style = {styles.select}></View>
         </View>
@@ -51,4 +51,7 @@ const styles = StyleSheet.create({
         borderRadius : 4,
         
     },
+    txt : {
+        maxWidth : "80%"
+    }
 })
