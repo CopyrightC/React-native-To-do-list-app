@@ -2,7 +2,7 @@
 
 A simple to do list app made with react native!
 
-#How do I run it on my machine?
+# How do I run it on my machine?
 
 ```
 git clone https://github.com/SATAN01/React-native-To-do-list-app
