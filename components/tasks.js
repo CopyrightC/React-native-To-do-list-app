@@ -10,7 +10,7 @@ export default function Tasks (props) {
                 <TouchableOpacity style = {styles.square}>
 
                 </TouchableOpacity>
-                <Text>This is tasks.js {props.text}</Text>
+                <Text>{props.text}</Text>
             </View>
             <View style = {styles.select}></View>
         </View>
@@ -28,7 +28,6 @@ const styles = StyleSheet.create({
         alignItems : "center",
         justifyContent : "space-between",
         marginBottom : 20,
-        marginTop : 20,
     },
 
     itemMain : {
