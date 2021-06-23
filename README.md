@@ -1,3 +1,3 @@
 # React-Native---To-do-list-app
 
-[Under development]
+A simple to list app made with react native!
