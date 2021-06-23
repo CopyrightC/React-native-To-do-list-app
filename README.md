@@ -1,3 +1,3 @@
-# React-Native---To-do-list-app
+# React native to do list app
 
-A simple to list app made with react native!
+A simple to do list app made with react native!
